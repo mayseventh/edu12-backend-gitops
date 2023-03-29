@@ -5,4 +5,4 @@ resources:
 - service.yaml
 images:
 - name: ghcr.io/mayseventh/edu12-backend
-  newTag: "20230327075427"
+  newTag: "20230329074518"
